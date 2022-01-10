@@ -2,7 +2,7 @@
 # AI as an API
 *180 minutes, Advanced, [Start Building](https://github.com/DataStax-Examples/ai-as-an-api/blob/master/README.md)*
 
-Train a ML Model and turn it into an Rest API using Astra DB, Keras, and FastAPI by following along with CodingEntrepreneurs' video, located [here](https://youtu.be/56qQNcHJxyQ).
+Train a ML Model and turn it into an Rest API using Astra DB, Keras, and FastAPI by following along with CodingEntrepreneurs' video, part one is located [here](https://youtu.be/56qQNcHJxyQ), part two is located [here](https://www.youtube.com/watch?v=nTdMjFcK3SM).
 <!--- ENDEXCLUDE --->
 
 ![image](https://raw.githubusercontent.com/DataStax-Examples/ai-as-an-api/master/hero.jpeg)
